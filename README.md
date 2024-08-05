@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **MRameezU/MRameezU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Welcome to My GitHub Profile!
+Hi, I'm Rameez, a Machine Learning Engineer with a passion for AI and open-source projects. Previously known as @Urameez.
+
+## Skills
+- Deep Learning (TensorFlow, PyTorch)
+- Natural Language Processing (spaCy, Keras)
+- Data Analysis (numpy, pandas)
+
+<!--## Projects
+- Project 1: Description of project 1.
+- Project 2: Description of project 2.-->
